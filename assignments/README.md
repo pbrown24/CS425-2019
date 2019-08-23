@@ -3,11 +3,11 @@
 
 ## Programming Assignments
 There will be 5 assignments
-1. PA01
-2. PA02
-3. PA03
-4. PA04
-5. PA05
+1. PA01 (10%)
+2. PA02 (10%)
+3. PA03 (10%)
+4. PA04 (10%)
+5. PA05 (10%)
 
-## Final Projects
+## Final Projects (25%)
 
