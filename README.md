@@ -2,7 +2,9 @@
 
 
 ## Information
-- Monday and Wednesday, 12:00 pm - 1:15 pm in Art and Design Building L008
+- Time: Monday and Wednesday, 12:00 pm - 1:15 pm 
+- Location: Art and Design Building L008
+
 - [Course HomePage](https://github.com/jmlien/CS425-2019)
 - [Lecture schedule](lectures)
 - [Programming assignments](assignments)
