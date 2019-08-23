@@ -5,6 +5,7 @@
 - Monday and Wednesday, 12:00 pm - 1:15 pm in Art and Design Building L008
 - [Course HomePage](https://github.com/jmlien/CS425-2019)
 - [Lecture schedule](lectures)
+- [Programming assignments](assignments)
 - [Syllabus](https://cs.gmu.edu/media/syllabi/Fall2019/Game_Programming_1LienJ.html)
 
 ## Instructor
@@ -22,9 +23,6 @@ Note: GMU students have full access to the [ebook](https://www-taylorfrancis-com
 
 ![Textbook](lectures/textbook.jpg "Textbook")
 
-
-## Programming Assignments
-- See [assignments](assignments)
 
 ## Useful links
 - [Sylvester Matrix/Vector js code](http://sylvester.jcoglan.com/)
