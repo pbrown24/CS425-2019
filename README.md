@@ -20,6 +20,7 @@ Game Engine Architecture by Jason Gregory. 3rd Edition. ISBN# 9781315267845.
 
 Note: GMU students have full access to the [ebook](https://www-taylorfrancis-com.mutex.gmu.edu/books/9781315267845)
 
+![Textbook](lectures/textbook.jpg "Textbook")
 
 
 ## Programming Assignments
