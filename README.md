@@ -14,8 +14,16 @@
 - Office: ENGR 4442
 - Office hours: Wednesdays 2~3:30pm
 
-## Programming assignments
-- see [assignments](assignments)
+## Required Textbook
+
+Game Engine Architecture by Jason Gregory. 3rd Edition. ISBN# 9781315267845.
+
+Note: GMU students have full access to the [ebook](https://www-taylorfrancis-com.mutex.gmu.edu/books/9781315267845)
+
+
+
+## Programming Assignments
+- See [assignments](assignments)
 
 ## Useful links
 - [Sylvester Matrix/Vector js code](http://sylvester.jcoglan.com/)
