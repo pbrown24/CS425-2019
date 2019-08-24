@@ -4,21 +4,21 @@
 
 - **Aug 26**: Introduction & Syllabus [(pdf)](01-overview.pdf)
 - **Aug 28**: Event-based System
-- **Sep 4**: Resouce Management [(pdf)](03-Level%20Loading.pdf)
-- **Sep 9**: Scene Management, Octree, BSP, K-D tree, Range tree [(pdf)](04-Scene-Management.pdf)
-- **Sep 11**: Level loading Sample Code [(zip)](05-Level%20Loading.zip) 
-- **Sep 16 & 18**: Procedural Modeling, terrain, L-systems, fractals, City Engine system [(pdf)](06-Procedural-modeling.pdf)
-- **Sep 23**: Procedural content, game play [(pdf)](07-procedural-content.pdf)
-- **Sep 25**: Human input device [(pdf)](08-HID.pdf)
+- **Sep 4**: Resouce Management 
+- **Sep 9**: Scene Management, Octree, BSP, K-D tree, Range tree 
+- **Sep 11**: Level loading Sample Code 
+- **Sep 16 & 18**: Procedural Modeling, terrain, L-systems, fractals, City Engine system 
+- **Sep 23**: Procedural content, game play 
+- **Sep 25**: Human input device 
   - [How Sony Created The Perfect Video Game Controller](https://www.youtube.com/watch?v=3Hm9924cvLI)
 
 
 ## Part 2: Motion, Animation, Game AI
 - **Sep 30**: Animation in Game
-- **Oct 2** Navigation (e.g., Nav Mesh) & Path finding (A*, D*) [(pdf)](15-Pathfinding.pdf)
+- **Oct 2** Navigation (e.g., Nav Mesh) & Path finding (A*, D*) 
   - Pathing http://www.gdcvault.com/play/1014514/AI-Navigation-It-s-Not 
-- **Oct 7**  Path planning, PRM, RRT, etc [(pdf)](16-PathPlanning.pdf)
-- **Oct 9 & 14**  Game AI, finite state machines, backward chaining, decision trees, behavior trees, etc, [(pdf)](17-AI.pdf)
+- **Oct 7**  Path planning, PRM, RRT, etc 
+- **Oct 9 & 14**  Game AI, finite state machines, backward chaining, decision trees, behavior trees, etc.
   - Unity AI: https://youtu.be/bqsfkGbBU6k?t=222
   - Unity Behavior tree: https://www.youtube.com/watch?v=T_of4_jRoJA
   - UR4 Behavior tree: https://www.youtube.com/watch?v=bsDT95UdPbc
@@ -46,13 +46,13 @@
     - detecting inappropriate contents (images, text)
    
 ## Part 3: Physically-based simuation
-- **Oct 28**: Introduction to particle system [(pdf)](09-particle-sys.pdf)
+- **Oct 28**: Introduction to particle system 
 - **Oct 30 & Nov 4**: ODE Solvers, Euler's method, Runge-Kutta 2nd~4th order methods, mid-point method [(pdf)](10-ODE.pdf)
-- **Nov 6 & 11**: Rigid-body simulation: Part 1 [(pdf)](notesd1.pdf) by David Baraff
+- **Nov 6 & 11**: Rigid-body simulation: Part 1 
   - Dissusion of [programming assignment 3](../assignments/PA03)
-- **Nov 13 & 18**: Rigid-body simulation: Part 2 [(pdf)](notesd2.pdf) by David Baraff
+- **Nov 13 & 18**: Rigid-body simulation: Part 2
   - Dissusion of [programming assignment 4](../assignments/PA4)
-- **Nov 20 & 25**: Collision response and conclision [(pdf)](13-rigid-body-collision-response.pdf)
+- **Nov 20 & 25**: Collision response and conclision
   - Recommended [talk by David Baraff about resting contacts](https://www.youtube.com/watch?v=vNTHveVpDDc)
 
 ## Part 4: Other
