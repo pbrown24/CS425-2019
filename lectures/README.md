@@ -13,8 +13,8 @@
   - [How Sony Created The Perfect Video Game Controller](https://www.youtube.com/watch?v=3Hm9924cvLI)
 
 
-## Part 2: Motion, Animation, Game AI
-- **Sep 30**: Animation in Game
+## Part 2: Motion, Animation & Game AI
+- **Sep 30**: Animations in Game
 - **Oct 2** Navigation (e.g., Nav Mesh) & Path finding (A*, D*) 
   - Pathing http://www.gdcvault.com/play/1014514/AI-Navigation-It-s-Not 
 - **Oct 7**  Path planning, PRM, RRT, etc 
