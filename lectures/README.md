@@ -2,7 +2,7 @@
 
 ## Part 1: Game Engine, Game Resouces & Scenes, Modelings
 
-- **Aug 26**: Introduction & Syllabus [(pdf)](01-overview.pdf)
+- **Aug 26**: Introduction & Syllabus [(pdf)](01-Introduction.pdf)
 - **Aug 28**: Event-based System
 - **Sep 4**: Resouce Management 
 - **Sep 9**: Scene Management, Octree, BSP, K-D tree, Range tree 
