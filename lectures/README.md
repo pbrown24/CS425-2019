@@ -3,9 +3,13 @@
 ## Part 1: Game Engine, Game Resouces & Scenes, Modelings
 
 - **Aug 26**: Introduction & Syllabus [(pdf)](01-Introduction.pdf)
+  - Read GEA 3.1 (C++ Review and Best Practices)
 - **Aug 28**: Event-based System
+  - Read GEA Chapters 1.3 (What is a Game Engine?), 6.1 & 8.1 & 8.2
 - **Sep 4**: Resouce Management 
+  - Read GEA Chapter 7
 - **Sep 9**: Scene Management, Octree, BSP, K-D tree, Range tree 
+  - Read GEA Chapters 11.1 & 11.2
 - **Sep 11**: Level loading Sample Code 
 - **Sep 16 & 18**: Procedural Modeling, terrain, L-systems, fractals, City Engine system 
 - **Sep 23**: Procedural content, game play 
