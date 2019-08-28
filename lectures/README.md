@@ -4,7 +4,7 @@
 
 - **Aug 26**: Introduction & Syllabus [(pdf)](01-Introduction.pdf)
   - Read GEA 3.1 (C++ Review and Best Practices)
-- **Aug 28**: Event-based System
+- **Aug 28**: Event-based System [(pdf)](02-GameEngine.pdf)
   - Read GEA Chapters 1.3 (What is a Game Engine?), 6.1 & 8.1 & 8.2
 - **Sep 4**: Resouce Management 
   - Read GEA Chapter 7
