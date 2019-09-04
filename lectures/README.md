@@ -6,7 +6,7 @@
   - Read GEA 3.1 (C++ Review and Best Practices)
 - **Aug 28**: Event-based System [(pdf)](02-GameEngine.pdf)
   - Read GEA Chapters 1.3 (What is a Game Engine?), 6.1 (Subsystem Start-Up and Shut-Down) 
-- **Sep 4**: Resouce Management 
+- **Sep 4**: Resouce Management  [(pdf)](03-Level%20Loading.pdf)
   - Read GEA Chapters 8.1 (Rendering loop) & 8.2 (Game Loop) & 7 (Resources & File system)
 - **Sep 9**: Scene Management, Octree, BSP, K-D tree, Range tree 
   - Read GEA Chapters 11.1 & 11.2
