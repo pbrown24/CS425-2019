@@ -3,7 +3,7 @@
 
 ## Programming Assignments
 There will be 5 assignments
-1. PA01 (10%): Due Sept 18th, 11:59pm.
+1. [PA01](PA01-Level-Loading) (10%): Due Sept 18th, 11:59pm.
 2. PA02 (10%)
 3. PA03 (10%)
 4. PA04 (10%)
