@@ -3,6 +3,7 @@
 #include <unordered_map>
 #include <list>
 #include <string>
+#include <cassert>
 
 namespace GMUCS425
 {
