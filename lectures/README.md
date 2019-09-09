@@ -8,7 +8,7 @@
   - Read GEA Chapters 1.3 (What is a Game Engine?), 6.1 (Subsystem Start-Up and Shut-Down) 
 - **Sep 4**: Resouce Management  [(pdf)](03-Level%20Loading.pdf)
   - Read GEA Chapters 8.1 (Rendering loop) & 8.2 (Game Loop) & 7 (Resources & File system)
-- **Sep 9**: Scene Management, Octree, BSP, K-D tree, Range tree 
+- **Sep 9**: Scene Management, Octree, BSP, K-D tree, Range tree [(pdf)](04-Scene-Management.pdf)
   - Read GEA Chapters 11.1 & 11.2
 - **Sep 11**: Level loading Sample Code 
 - **Sep 16 & 18**: Procedural Modeling, terrain, L-systems, fractals, City Engine system 
